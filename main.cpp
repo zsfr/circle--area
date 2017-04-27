@@ -1,5 +1,6 @@
 //调用外部函数
-#include "head.h"
+#include<iostream>
+#include "head.h"               //用户自己编写的头文件
 using namespace std;
 
 int main()
