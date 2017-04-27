@@ -1,3 +1,4 @@
+//调用外部函数
 #include "head.h"
 using namespace std;
 
