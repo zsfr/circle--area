@@ -1,7 +1,10 @@
-#pragma once
-double caculate(double r);
+//声明外部函数
+#ifndef HEAD_H
+#define HEAD_H
 
-//#ifndef caculate_h
-//#define caculate_h
-//double caculate(double r);
-//#endif
+#include<iostream>
+
+double area(double r);  //声明外部函数area()
+void output(double s);  //声明外部函数output()
+
+#endif
